@@ -1,0 +1,5 @@
+{
+    "weather": "http://api.openweathermap.org/data/2.5/weather?q=kovel&units=metric&appid=8d0296fab1ae5b08bc49777608b9fad8"
+}
+
+
